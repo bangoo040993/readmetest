@@ -6,7 +6,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Shopping-Cart">Shopping Cart</a></li>
+        <li><a href="#Purpose">Purpose</a></li>
+        <li><a href="#Collaborator">Collaborator</a></li>
+        <li><a href="#Prerequisites">Prerequisites</a></li>
       </ul>
     </li>
     <li>
@@ -23,7 +25,9 @@
   </ol>
 </details>
 
-# Shopping Cart
+# Purpose
+# Collaborator
+# Prerequisites
 
 -   Link to [trello](https://trello.com/invite/b/ieQ1mtcf/ATTIface979797e68de5cf0f94b9bc46405cE4727943/pack-opening)
 -   This code is a RESTful API for an e-commerce application. It allows you to manage users, items, and carts using standard HTTP methods. You can create, retrieve, update, and delete users, items, and carts. The API follows RESTful principles, providing a structured and standardized way to interact with the resources.
