@@ -26,8 +26,11 @@
 </details>
 
 # Purpose
+3
 # Collaborator
+3
 # Prerequisites
+3
 
 -   Link to [trello](https://trello.com/invite/b/ieQ1mtcf/ATTIface979797e68de5cf0f94b9bc46405cE4727943/pack-opening)
 -   This code is a RESTful API for an e-commerce application. It allows you to manage users, items, and carts using standard HTTP methods. You can create, retrieve, update, and delete users, items, and carts. The API follows RESTful principles, providing a structured and standardized way to interact with the resources.
@@ -38,7 +41,7 @@
 
 |         | List    |         |
 | ------- | ------- | ------- |
-| Postman | Node.js | Mongodb |
+| [![React][React.js]][React-url] | Node.js | Mongodb |
 | Github  |         |         |
 
 ### Installation
@@ -134,3 +137,5 @@ SECRET=i4ml05tn33d460Dh31pM3pu7MyW0r1D1N0rD3R</code></pre>
 <!-- add more
 |                |                 |                 |
 -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
