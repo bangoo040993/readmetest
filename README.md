@@ -41,7 +41,7 @@
 
 |         | List    |         |
 | ------- | ------- | ------- |
-| [![React][React.js]][React-url] | Node.js | Mongodb |
+| [![React][React.js]][React-url] | [![Nodejs][Node.js]][Node-url] | Mongodb |
 | Github  |         |         |
 
 ### Installation
@@ -139,3 +139,5 @@ SECRET=i4ml05tn33d460Dh31pM3pu7MyW0r1D1N0rD3R</code></pre>
 -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/en/
