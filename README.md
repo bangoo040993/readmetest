@@ -1,4 +1,4 @@
-# Sundaland / Galapagos
+# Sundaland / [Galapagos](placeHolderForLiveDeploymentPage)
 
 <details>
   <summary>Table of Contents</summary>
@@ -39,10 +39,10 @@
 
 ### Prerequisites
 
-|         | List    |         |
-| ------- | ------- | ------- |
+|         |         | List    |         |         |
+| ------- | ------- | ------- | ------- | ------- |
 | [![React][React.js]][React-url] | [![Nodejs][Node.js]][Node-url] | Mongodb |
-| Github  |         |         |
+| Github  |         |         |         |         |
 
 ### Installation
 
