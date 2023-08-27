@@ -1,4 +1,4 @@
-# unit2apiproject
+# Sundaland
 
 <details>
   <summary>Table of Contents</summary>
@@ -7,7 +7,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#Purpose">Purpose</a></li>
-        <li><a href="#Collaborator">Collaborator</a></li>
+        <li><a href="#Contributor">Contributor</a></li>
         <li><a href="#Prerequisites">Prerequisites</a></li>
       </ul>
     </li>
