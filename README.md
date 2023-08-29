@@ -129,7 +129,7 @@ SECRET=i4ml05tn33d460Dh31pM3pu7MyW0r1D1N0rD3R</code></pre>
 <details>
   <summary>Click to expand!</summary>
   
-  ## ## note to self
+ ## note to self
   1. A numbered
   2. list
      * With some
