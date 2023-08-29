@@ -126,7 +126,7 @@ SECRET=i4ml05tn33d460Dh31pM3pu7MyW0r1D1N0rD3R</code></pre>
 -   july 4 need to finish all the routes
 -   finish up
 
-<details>
+<details id="note-to-self">
   <summary>Click to expand!</summary>
   
  ## note to self
