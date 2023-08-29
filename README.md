@@ -24,12 +24,13 @@
     <li><a href="#Built-With-and-Contribution">built with and contribution</a></li>
   </ol>
 </details>
-
+<details>
 # [Purpose]
+</details>
  Our team created a MERN stack web application similar in style and function to multinational e-commerce platform, Amazon, for General Assembly coding bootcamp. 
 # Collaborator
 3
-<summary>Table of Contents</summary>
+
 # Prerequisites
 3
 
