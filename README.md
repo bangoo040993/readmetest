@@ -24,9 +24,7 @@
     <li><a href="#Built-With-and-Contribution">built with and contribution</a></li>
   </ol>
 </details>
-<details>
-# [Purpose]
-</details>
+
  Our team created a MERN stack web application similar in style and function to multinational e-commerce platform, Amazon, for General Assembly coding bootcamp. 
 # Collaborator
 3
@@ -120,13 +118,23 @@ SECRET=i4ml05tn33d460Dh31pM3pu7MyW0r1D1N0rD3R</code></pre>
 -   It's easy to get tunnel vision and focus solely on one problem at a time, which can occasionally yield positive results. However, most of the time, it delays progress on the entire project.
 -   Don't get too ahead of yourself. Use the time you save to learn more, understand more, or theoretically test certain aspects of things.
 -   DONT STRESS OUT TOO MUCH THIS TOO SHALL PASS
-## note to self
+
 
 -   should have done this in the begining but never lates than never?
 -   july 1 going instead of having to manually putting in the userid i need to have the user to create a new cart -done july 1
 -   july 1 make a wish list and favorites array for user and
 -   july 4 need to finish all the routes
 -   finish up
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## ## note to self
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 ## Built With and Contribution
 
